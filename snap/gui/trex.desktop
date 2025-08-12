@@ -1,3 +1,7 @@
+# XDG desktop entry for trex
+#
+# SPDX-License-Identifier: MIT
+# Copyright 2025 Buo-ren Lin <buo.ren.lin@gmail.com>
 [Desktop Entry]
 Name=trex (UNOFFICIAL)
 Name[zh_TW]=trex（非官方版本）

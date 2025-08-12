@@ -1,3 +1,7 @@
+# Snapcraft project file for trex
+#
+# SPDX-License-Identifier: MIT
+# Copyright 2025 Buo-ren Lin <buo.ren.lin@gmail.com>
 name: trex
 base: core24
 adopt-info: trex
