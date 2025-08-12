@@ -4,6 +4,9 @@ adopt-info: trex
 title: trex (UNOFFICIAL)
 summary: A terminal-based recreation of Google Chrome's famous T-Rex game
 license: MIT
+contact: https://github.com/brlin-tw/trex-snap/issues
+website: https://github.com/brlin-tw/trex-snap
+issues: https://github.com/brlin-tw/trex-snap/issues
 description: |
   **Features**
 
