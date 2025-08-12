@@ -1,0 +1,7 @@
+# Git tracking ignore files
+#
+# SPDX-License-Identifier: MIT
+# Copyright 2025 Buo-ren Lin <buo.ren.lin@gmail.com>
+
+# Don't track built snap packages
+*.snap
