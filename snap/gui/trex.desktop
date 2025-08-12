@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=trex (UNOFFICIAL)
+Name[zh_TW]=trex（非官方版本）
+Comment=A terminal-based recreation of Google Chrome's famous T-Rex game
+Comment[zh_TW]=一個 Google Chrome 著名的 T-Rex 遊戲之基於終端機的重現版本
+Terminal=true 
+Type=Application
+Icon=${SNAP}/meta/gui/trex.png
+Categories=Game;ActionGame;KidsGame;
+Exec=trex
