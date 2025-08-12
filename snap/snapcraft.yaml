@@ -1,0 +1,37 @@
+name: trex
+base: core24
+adopt-info: trex
+title: trex (UNOFFICIAL)
+summary: A terminal-based recreation of Google Chrome's famous T-Rex game
+license: MIT
+description: |
+  **Features**
+
+  - Classic T-Rex Gameplay - Jump and duck to avoid obstacles
+  - Enhanced Mechanics - Power-ups, fire abilities, and invincibility
+  - Scoring System - Track your high scores and level progression
+  - Rich Graphics - ASCII art sprites with full color support
+  - Zero Dependencies - No external libraries required
+
+  **Quick Start**
+
+  Running:
+
+      # Play the game (optimized rendering)
+      trex
+
+      # Compatibility mode for older systems
+      TUI_DISABLE_WRITEV=1 trex
+
+  **Controls**
+
+  - Space or Up Arrow: Jump over obstacles
+  - Down Arrow: Duck under pterodactyls
+  - ESC or Q: Return to menu / Quit game
+
+  **Snap distribution-specific information**
+
+  This is NOT an official distribution of trex, please refer to the snap's own issue tracker for support: https://github.com/brlin-tw/trex-snap/issues
+
+grade: devel
+confinement: devmode
